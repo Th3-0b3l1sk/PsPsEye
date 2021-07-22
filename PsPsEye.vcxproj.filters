@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{a4f970b6-7417-43e5-be03-4d485b070826}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="headers">
+      <UniqueIdentifier>{ad3025a9-9fe9-4082-b774-9c2598db3f5c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\backup\Src\Artifacts.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\backup\Src\Bot.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\backup\Src\dllmain.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\backup\Src\Functions.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\backup\Src\Hooks.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\backup\Src\Patch.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\backup\Headers\Artifacts.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\backup\Headers\Bot.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\backup\Headers\comms.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\backup\Headers\Functions.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\backup\Headers\Globals.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\backup\Headers\Hooks.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\backup\Headers\Logger.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\backup\Headers\Memory.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\backup\Headers\Patch.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
