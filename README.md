@@ -16,3 +16,5 @@ in the market but it provides a starting point for more complex bots.
 type the command "@start [HeroType]" in the chat box with talk functionality selected, make sure the target name is empty.
 if HeroType is not supplied, it defaults to Warrior.
 
+## Demo
+https://www.youtube.com/watch?v=8z12WyaX5hk
